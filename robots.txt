@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-au49tt.pulaucuan.online/sitemap.xml
